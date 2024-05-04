@@ -1,0 +1,15 @@
+#blue-box{
+    height: 400px;
+    width: 800px;
+    background-color: #0085CA;
+    position: relative;
+}
+#blue-box > #yellow-circle{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: #FFD100;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
